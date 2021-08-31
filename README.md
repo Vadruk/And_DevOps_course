@@ -10,4 +10,5 @@
 +	___Experience gained in DevOps specialization.___
 +	___Get to know the tools used in the DevOsp specialization.___
 +	___Understand how interesting DevOps is to me.___
+---
  *  [TIL lesson 1](https://github.com/Vadruk/And_DevOPS/blob/main/les_1/readme.md)
