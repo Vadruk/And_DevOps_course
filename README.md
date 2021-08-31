@@ -9,4 +9,4 @@
 +	___I want to change my spesialization to a more relevant one and interesting.___
 +	___Experience gained in DevOps specialization.___
 +	___Get to know the tools used in the DevOsp specialization.___
-+	___Understand how interesting DEVOPS is to me.___
++	___Understand how interesting DevOps is to me.___
