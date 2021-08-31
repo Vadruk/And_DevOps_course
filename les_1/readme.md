@@ -6,4 +6,4 @@
 ## What am I expecting from the course:
 1.	I want to change my profession to a more relevant one.
 2.	Experience gained in DevOps specialization.
-3.	Get to know the tools used in the devosp specialization.
+3.	Get to know the tools used in the DevOsp specialization.
