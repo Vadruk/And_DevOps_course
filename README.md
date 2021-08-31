@@ -12,4 +12,4 @@
 +	___Understand how interesting DevOps is to me.___
 ---
 [__TIL lesson 1__](https://github.com/Vadruk/And_DevOPS/blob/main/les_1/readme.md)
-[!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FAndersensoft%2F&psig=AOvVaw0fo6KLK4e85-FiwvPjWkAp&ust=1630482739405000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPDO7tXj2vICFQAAAAAdAAAAABAD)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FAndersensoft%2F&psig=AOvVaw0fo6KLK4e85-FiwvPjWkAp&ust=1630482739405000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPDO7tXj2vICFQAAAAAdAAAAABAD)
