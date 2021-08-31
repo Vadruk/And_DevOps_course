@@ -1,6 +1,6 @@
 # My DevOps way
 ## My interest in this course:
-1.	This course is free and can give me an idea of the devops specialization.
+1.	This course is free and can give me an idea of the DevOps specialization.
 2.	I want to update my education.
 3.	The course gives the prospect of employment in an organization located in my city.
 ## What am I expecting from the course:
