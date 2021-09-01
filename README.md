@@ -1,4 +1,4 @@
-# My DevOps way
+# My DevOps way.
 ***
 ## About myself:
 + ___My name Bobruk Vadim.___
