@@ -10,7 +10,7 @@
 +	___This course is free and can give me an idea of the DevOps specialization.___
 +	___I want to update my education.___
 +	___The course gives the prospect of employment in an organization located in my city.___
-
+---------------------
 ## What am I expecting from the course:
 +	___I want to change my spesialization to a more relevant one and interesting.___
 +	___Experience gained in DevOps specialization and understand how interesting DevOps is to me.___
