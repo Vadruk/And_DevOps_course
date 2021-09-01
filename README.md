@@ -13,7 +13,7 @@
 ---------------------
 ## What am I expecting from the course:
 +	___I want to change my spesialization to a more relevant one and interesting.___
-+	___Experience gained in DevOps specialization and understand how interesting DevOps is to me.___
++	___Experience gained in DevOps specialization and understand how interesting it is to me.___
 +	___Get to know the tools used in the DevOsp specialization.___
 ------------------------
 [Lesson 1 - TIL](https://github.com/Vadruk/And_DevOps_course/tree/main/les_1#readme)
