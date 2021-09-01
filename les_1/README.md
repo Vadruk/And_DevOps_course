@@ -1,4 +1,4 @@
-# __I learned today__
+# __Today i learned:__
 ---
 ## __31.08.2021__
 
